@@ -1,0 +1,1 @@
+export const urlApi = process.env.REACT_APP_URL_BASE || "http://localhost:5182/";
